@@ -6,6 +6,7 @@ Design by Yury Smirnov (https://dribbble.com/shots/2966294-Facebook-streaming-ap
 ## Features
 1. Mobile responsive
 2. FontAwesome
+3. jQuery mobile navigation toggle
 
 ## Previews
 
